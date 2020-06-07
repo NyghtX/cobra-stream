@@ -1,1 +1,10 @@
 /* You can add global styles to this file, and also import other style files */
+
+.instagram {
+  position: absolute;
+  bottom: 100px;
+}
+
+.instagram > img {
+  height: 500px;
+}
